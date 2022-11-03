@@ -25,3 +25,5 @@ void wstrcmp(list *l1, list *l2, FILE *f1, FILE *f2);
 void bstrcmp(list *l1, list *l2, FILE *f1, FILE *f2);
 void destroy(list *l1);
 #endif // DIFF_H_INCLUDED
+
+// Bug Fix
